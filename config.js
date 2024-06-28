@@ -19,39 +19,31 @@ global.owner = [
 //• ↳𝑺𝑶𝑳𝑶 𝑴𝑶𝑫𝑬𝑹𝑨𝑫𝑶𝑹𝑬𝑺!
 global.mods = ['917439317360'', '5492355505090', '51939041500', '51929972576', '59168106005', '525610314499']
 
-global.suittag = ['573012482597']
+global.suittag = ['917439317360']
 global.prems = []
 
-//• ↳ ◜𝑴𝑨𝑹𝑪𝑨𝑺 𝑫𝑬 𝑨𝑮𝑼𝑨◞ • 💌
-global.packname = '𝗬𝗼𝘀𝗵𝗶𝗸𝗼 𝗕𝗼𝘁 - 𝗠𝗗 🌸'
-global.author = '𝗔𝗱𝗿𝗶𝗲𝗻 👑'
+//• ↳ ◜𝐖𝐀𝐓𝐄𝐑 𝐌𝐀𝐑𝐊𝐒◞ • 💌
+global.packname = '𝗔𝗱𝗿𝗶𝗲𝗻 𝗴𝗼𝘁 𝗴𝗶𝗿𝗹𝘀 🌸'
+global.author = '౨ৎ   ᭬ 𝚨ֺ𝖽ֵ𝗿𝗂꯭᜔ִə֗𑜑ִ  ֵ 𐚱꯭ ꒰'
 global.wm = '᭥𐨏𝒀𝒐𝒔𝒉𝒊𝒌𝒐 𝑩𝒐𝒕 - 𝑴𝑫᭢ꪲ'
 global.titulowm = '𝙔𝙤𝙨𝙝𝙞𝙠𝙤 𝘽𝙤𝙩 - 𝙈𝘿 🌻'
-global.titulowm2 = '𝑂𝑓𝑐 𝐷𝑖𝑒𝑔𝑜'
-global.igfg = '𝑂𝑓𝑖𝑐𝑖𝑎𝑙 𝐷𝑖𝑒𝑔𝑜'
+global.titulowm2 = '𝐀𝐝𝐫𝐢𝐞𝐧'
+global.igfg = '𝐀𝐝𝐫𝐢𝐞𝐧 🐻'
 global.botname = 'Ⓨ︎ Yoshiko Bot - MD'
-global.team = '♋︎ 𝐃𝙴𝚅 𝐖𝙾𝚁𝙻𝙳 - 𝐓𝙴𝙰𝙼 ♋︎'
-global.dev = '👑 Developed By • ✨ Ofc.Diego'
+global.team = '♋︎ 𝓐𝓭𝓻𝓲𝓮𝓷 - 𝓽𝓮𝓪𝓶 ♋︎'
+global.dev = '👑 Developed By • ✨ 𝓐𝓭𝓻𝓲𝓮𝓷'
 global.vs = '2.0.0'
 
-//• ↳ ◜𝑰𝑴𝑨́𝑮𝑬𝑵𝑬𝑺◞ • 🌇
+//• ↳ ◜𝐈𝐌𝐀𝐆𝐄𝐒◞ • 🌇
 global.imagen1 = fs.readFileSync('./Menu.jpg')
 global.imagen2 = fs.readFileSync('./Menu2.jpg')
 global.imagen3 = fs.readFileSync('./Menu3.jpg')
 
 //• ↳ ◜𝑳𝑰𝑵𝑲𝑺◞ • 🌿
-global.gp1 = 'https://chat.whatsapp.com/Em1J2VaglHc1fe26YtBDCS' //Grupo Oficial De Yoshiko
-global.gp2 = 'https://chat.whatsapp.com/KNhfEDUTcyl5RuwR1Is4Hk' //Grupo Oficial Yoshiko
-global.gp3 = 'https://chat.whatsapp.com/Ksd32KH9zFoDmO1PJt44M7' //GataBot Y Yoshiko
-global.gp4 = 'https://chat.whatsapp.com/IstOAq2RnBx687WhQpOYK8' //NovaBot Y Yoshiko
-global.gp5 = 'https://chat.whatsapp.com/GvJAupaHXTQDNivZIa2l5D' //Alisa Kujou Y Yoshiko
-global.gp6 = 'https://chat.whatsapp.com/EVc2XJuZwjnKKdWUsRYmms' //ShizukaBot Y Yoshiko
-global.channel = 'https://whatsapp.com/channel/0029VaQD7LAJP216tu9liI2A' //Canal Oficial
-global.yt = 'https://www.youtube.com/@Yoshiko_team' //Canal De Youtube
-global.md = 'https://github.com/OfcDiego/YoshikoBot-MD' //Github Oficial
-global.fb = 'https://www.facebook.com/diegosaroficial?mibextid=ZbWKwL' //Facebook Del Propietario
+global.gp1 = 'https://chat.whatsapp.com/EZjCgLTJfRd8LHOyVC163u' //Grupo Oficial De Adrien
+global.ig = 'https://www.instagram.com/_.adrienxd?igsh=MTBiZHJ0eXNsNGJ6OA==' //Instagram Del Propietario
 
-//• ↳ ◜𝑻𝑰𝑬𝑴𝑷𝑶◞ • 🕒
+//• ↳ ◜𝐓𝐢𝐦𝐞◞ • 🕒
 global.d = new Date(new Date + 3600000);
 global.locale = 'es';
 global.dia = d.toLocaleDateString(locale, {weekday: 'long'});
@@ -64,7 +56,7 @@ global.wm2 = `${dia} ${fecha}\nYoshiko`;
 global.gt = 'Yoshiko';
 global.yoshiko = 'Yoshiko';
 global.yoshiko = 'https://github.com/OfcDiego/YoshikoBot-MD';
-global.nomorown = '573012482597';
+global.nomorown = '917439317360';
 global.pdoc = ['application/vnd.openxmlformats-officedocument.presentationml.presentation', 'application/vnd.openxmlformats-officedocument.spreadsheetml.sheet', 'application/vnd.openxmlformats-officedocument.wordprocessingml.document', 'application/vnd.ms-excel', 'application/msword', 'application/pdf', 'text/rtf'];
 global.cmenut = '❖––––––『';
 global.cmenub = '┊✦ ';
@@ -147,22 +139,22 @@ global.rpg = {
   emoticon(string) {
     string = string.toLowerCase();
     const emot = {
-      level: '🧬 Nivel',
-      limit: '💎 Diamante',
-      exp: '⚡ Experiencia',
-      bank: '🏦 Banco',
-      diamond: '💎 Diamante',
-      health: '❤️ Salud',
-      kyubi: '🌀 Magia',
-      joincount: '🪙 Token',
-      emerald: '💚 Esmeralda',
-      stamina: '✨ Energía',
-      role: '💪 Rango',
-      premium: '🎟️ Premium',
-      pointxp: '📧 Puntos Exp',
-      gold: '👑 Oro',
-      trash: '🗑 Basura',
-      crystal: '🔮 Cristal',
+      level: '🧬 𝐋𝐞𝐯𝐞𝐥',
+      limit: '💎 𝐋𝐢𝐦𝐢𝐭',
+      exp: '⚡ 𝐄𝐱𝐩',
+      bank: '🏦 𝐁𝐚𝐧𝐤',
+      diamond: '💎 𝐃𝐢𝐦𝐨𝐧𝐝',
+      health: '❤️ 𝐇𝐞𝐚𝐥𝐭𝐡',
+      kyubi: '🌀 𝐊𝐲𝐮𝐛𝐢',
+      joincount: '🪙 𝐉𝐨𝐢𝐧𝐜𝐨𝐮𝐧𝐭',
+      emerald: '💚 𝐄𝐦𝐞𝐫𝐚𝐥𝐝',
+      stamina: '✨ 𝐒𝐭𝐚𝐦𝐢𝐧𝐚',
+      role: '💪 𝐑𝐨𝐥𝐞',
+      premium: '🎟️ 𝐏𝐫𝐞𝐦𝐢𝐮𝐦',
+      pointxp: '📧 𝐏𝐨𝐢𝐧𝐭 𝐗𝐩',
+      gold: '👑 𝐆𝐨𝐥𝐝',
+      trash: '🗑 𝐓𝐫𝐚𝐬𝐡',
+      crystal: '🔮 𝐂𝐫𝐲𝐬𝐭𝐚𝐥',
       intelligence: '🧠 Inteligencia',
       string: '🕸️ Cuerda',
       keygold: '🔑 Llave de Oro',
